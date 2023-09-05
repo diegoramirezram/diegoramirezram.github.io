@@ -8,13 +8,4 @@ date: 2020-01-01
 location: "Bogotá, Colombia"
 ---
 
-This course introduces economic and financial analysis using software and programs like Stata, R, Overleaf and Zotero.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course introduces economic and financial analysis using software and programs like Stata, R, Overleaf, and Zotero.
