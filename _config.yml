@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Sebastián Ramírez"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Psychologist and Economist"
+  location         : "Bogotá"
+  employer         : "The World Bank"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "diegoramirezram"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  LinkedIn         : "https://www.linkedin.com/in/sebasti%C3%A1n-ram%C3%ADrez-6151b61a2/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
