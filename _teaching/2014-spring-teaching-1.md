@@ -8,13 +8,5 @@ date: 2020-01-01
 location: "Bogotá, Colombia"
 ---
 
-An introductory course in economics for students of economics, finance, and management.
+An introductory economics course for economics, finance, and management students.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
