@@ -33,13 +33,12 @@ Work experience
   * Duties included: Provided research assistantship for the project  Study of Preferences (Moral Wiggle Room) 
   * Supervisor:  Mariana Blanco - Francesco Bogliacino - Pietro Ortoleva
  
-  * 
-* Jan 2023 - May 2023: Project Manager
+* Jan 2022 - May 2023: Project Manager
   * EFI Alliance - Universidad del Rosario
   * Duties included: Coordinate data collection and data cleaning for a field experiment with pensions in Colombia.
   * Supervisor: Diego Aycinena - Mariana Blanco
  
-* Fall 2015: Research Assistant
+* Jan 2018  December 2021 -: Research Assistant
   * Universidad del Rosario
   * Duties included: Provided research assistantship in the data collection, design, and analysis of multiple projects at REBEL (Rosario Experimental and Behavioral Economics Lab)
   * Supervisor: Diego Aycinena - Mariana Blanco
