@@ -81,4 +81,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* I was part of Construyendo Sonrisas, an NGO that promotes a healthy education environment for Colombian kids.
