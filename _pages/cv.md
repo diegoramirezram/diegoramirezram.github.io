@@ -38,7 +38,7 @@ Work experience
   * Duties included: Coordinate data collection and data cleaning for a field experiment with pensions in Colombia.
   * Supervisor: Diego Aycinena - Mariana Blanco
  
-* Jan 2018  December 2021 -: Research Assistant
+* Jan 2018 - December 2021 -: Research Assistant
   * Universidad del Rosario
   * Duties included: Provided research assistantship in the data collection, design, and analysis of multiple projects at REBEL (Rosario Experimental and Behavioral Economics Lab)
   * Supervisor: Diego Aycinena - Mariana Blanco
@@ -48,14 +48,17 @@ Skills
 * Stata
 * Python
   * Otree
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * Jupyter Notebooks
 * Github
 
-Other Education
+Other Education at the Graduate Level
 ======
-* B.S. in Psychology, Universidad Nacional de Colombia, 2017
-* M.S. in Economics, Universidad del Rosario, 2022
+* Real Analysis for Economic Analysis , Universidad del Rosario (GPA: 4.6), 2023
+* Summer School in Multidimensional Poverty, OPHI - Oxford University, 2023
+* Summer School in  Experimental Macroeconomics, BESS, 2020
+* Summer School in Behavioral Game Theory, University of East Anglia, 2020
+* Summer School in Experiments for Social Sciences, CESS - PUC , 2018
+  
 
   
 Publications
