@@ -5,11 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 
 {% if author.googlescholar %}
@@ -20,4 +15,9 @@ Talks
   {% include archive-single.html %}
 {% endfor %}
 
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   
